@@ -3,7 +3,7 @@
   "tasks": [
     {
       "type": "shell",
-      "label": "g++.exe build active file",
+      "label": "g++ build active file",
       "command": "g++",
       "args": [
         "-g",
@@ -11,9 +11,6 @@
         "-o",
         "${fileDirname}/${fileBasenameNoExtension}.out"
       ],
-      // "options": {
-      //     "cwd": "C:\\MinGW64\\bin"
-      // },
       "problemMatcher": ["$gcc"],
       "group": {
         "kind": "build",
