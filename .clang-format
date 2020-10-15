@@ -1,4 +1,4 @@
-AccessModifierOffset: -8
+AccessModifierOffset: -4
 AlignAfterOpenBracket: Align
 AlignConsecutiveMacros: true
 AlignEscapedNewlines: Right
@@ -14,6 +14,7 @@ FixNamespaceComments: true
 IncludeBlocks: Regroup
 IndentCaseLabels: true
 IndentPPDirectives: BeforeHash
+IndentWidth: 4
 KeepEmptyLinesAtTheStartOfBlocks: false
 SpaceAfterCStyleCast: true
 Standard: Latest
