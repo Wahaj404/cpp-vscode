@@ -4,7 +4,7 @@ AlignConsecutiveMacros: true
 AlignEscapedNewlines: Right
 AlignTrailingComments: true
 AllowShortBlocksOnASingleLine: Empty
-AllowShortFunctionsOnASingleLine: Inline
+AllowShortFunctionsOnASingleLine: None
 AllowShortLambdasOnASingleLine: All
 AlwaysBreakTemplateDeclarations: Yes
 BreakBeforeBraces: Attach
